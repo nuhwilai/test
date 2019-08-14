@@ -1,2 +1,3 @@
 lang feature
-update lang
+update lang1
+update lang2
