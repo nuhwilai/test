@@ -1,4 +1,4 @@
 # test
 domain 01
 domain 02
-something in domain.txt
+something in domain
